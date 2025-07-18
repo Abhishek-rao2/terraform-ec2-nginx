@@ -23,7 +23,7 @@ terraform destroy
 
 
 ### ✅ nginx running 
-![NGINX Output](./screenshots/nginx.png)
+![output](./screenshots/nginx.png)
 
 
 ```
