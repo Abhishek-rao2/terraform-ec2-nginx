@@ -21,8 +21,10 @@ terraform apply
 terraform destroy
 
 
+
 ### ✅ nginx running 
-![output ](./screenshots/ngnix.png)
+![NGINX Output](./screenshots/ngnix.png)
+
+```
 
 
-```bash
