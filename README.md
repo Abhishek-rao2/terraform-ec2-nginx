@@ -23,6 +23,6 @@ terraform destroy
 
 ```
 
-![output](./image.png)
+![nginx](./img.png)
 
 
